@@ -45,7 +45,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `role`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(5, 'HARIKRISHNAN', 'harikrishnanmirash@gmail.com', 'level2', NULL, '$2y$10$piG5hOku3N7sOIah7AH1zOAH5GYCbhwik6/PcuMdeNXuMMsfYeBfi', NULL, '2022-09-18 01:30:59', '2022-09-18 01:30:59'),
+(5, 'HARIKRISHNAN', 'harikrishnanmirash@gmail.com', 'admin', NULL, '$2y$10$piG5hOku3N7sOIah7AH1zOAH5GYCbhwik6/PcuMdeNXuMMsfYeBfi', NULL, '2022-09-18 01:30:59', '2022-09-18 01:30:59'),
 (6, 'KIRAN PRASAD', 'harikrishnanpt949@gmail.com', 'level1', NULL, '$2y$10$Z4oyV/7VQ5K1uYkMCXsfQuW.SGHe3S8zxsIBDxyE3o5jlzpU6Sk1e', NULL, '2022-09-18 01:35:17', '2022-09-18 01:35:17'),
 (7, 'test', 'test2@gmail.com', 'level1', NULL, '$2y$10$oydmiYZEcWomUg.CjHCt.elexEsBt4QjThdHpj.yutPDsRnzN/7ei', NULL, '2022-09-18 01:40:41', '2022-09-18 01:40:41'),
 (8, 'new', 'test126@gmail.com', 'level1', NULL, '$2y$10$ZPvPISYD1FummCk27P02m.JhrMo1vEsy2cGPG0eaASdwkOGcWkmba', NULL, '2022-09-18 01:42:56', '2022-09-18 01:42:56');
